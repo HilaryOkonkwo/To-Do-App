@@ -68,7 +68,7 @@
 ## Deployment
     The project is deployed on Vercel, a platform known for its fast and easy deployment of web applications.
 
-    Live URL:[Todoapp](https://todo-app-eosin-five.vercel.app/)
+    Live URL: https://todo-app-eosin-five.vercel.app/
 
 ## Contributions:
    Feel free to contribute! Here's how you can help:
