@@ -68,7 +68,7 @@
 ## Deployment
     The project is deployed on Vercel, a platform known for its fast and easy deployment of web applications.
 
-    Live URL: https://todo-app-eosin-five.vercel.app/
+Live URL: [Todo-App](https://todo-app-eosin-five.vercel.app/)
 
 ## Contributions:
    Feel free to contribute! Here's how you can help:
@@ -91,14 +91,14 @@ This project is licensed under the [MIT](https://github.com/HilaryOkonkwo/To-Do-
 
 ## Contact
 
-    Feel free to reach out via:
+ Feel free to reach out via:
 
-    Email: somtoochukwuhilary@gmail.com
+ Email: somtoochukwuhilary@gmail.com
 
-    [Linkedin](https://www.linkedin.com/in/somtoochukwu-okonkwo-691947124/)
+ [Linkedin](https://www.linkedin.com/in/somtoochukwu-okonkwo-691947124/)
 
-    [X](https://x.com/OkonkwoSomtoo)
+ [X](https://x.com/OkonkwoSomtoo)
 
-    GitHub: https://github.com/HilaryOkonkwo
+ GitHub: https://github.com/HilaryOkonkwo
 
-    Phone No: +2348164514675
+ Phone No: +2348164514675
